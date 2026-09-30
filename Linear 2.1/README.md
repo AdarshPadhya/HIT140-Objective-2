@@ -1,5 +1,19 @@
 # HIT140 – Objective 2.1: Linear Regression
 
+## Unit Information
+
+**Unit:** HIT140 – Foundations of Data Science  
+**Assessment:** Group Project Report – Objective 2  
+**Section:** Linear Regression 2.1  
+
+**Group Members:**
+
+**Darwin Group 29**
+- Adarsh Thakorbhai Padhya – S401743
+- Md Osman Syed – S400545
+- Madan B K – S399582
+- Aakriti B C – S400552
+
 ## Overview
 
 This folder contains the work completed for Objective 2.1 of the HIT140 Foundations of Data Science group project.
@@ -76,11 +90,12 @@ The analysis showed that the selected pre-match variables had limited ability to
 - `regression_2_1_processed.csv` – Cleaned and processed dataset.
 - `regression_2_1.ipynb` – Python/Jupyter Notebook containing data preparation, analysis, modelling, evaluation and visualisations.
 
-## Data Sources
+## References
 
-Match information was obtained from **FBref – 2026 FIFA World Cup Scores & Fixtures**.
-
-Additional pre-match information was used for the FIFA ranking and squad-age explanatory variables.
+- FBref, *2026 World Cup Scores & Fixtures*: https://fbref.com/en/comps/1/schedule/schedule-Stats
+- MLS Soccer, *FIFA World Rankings: Every team at the 2026 World Cup* (rankings as of 11 June 2026): https://www.mlssoccer.com/competitions/fifa-world-cup/news/fifa-world-rankings-every-team-at-the-world-cup
+- FIFA, *The squads in stats*: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/numbers-squads-stats
+- Pantheonic, *The Tournament of Global Unity — FIFA World Cup 2026* (official-squad age table): https://www.pantheonic.cloud/publication/PI_WC2026_Full_Document.html
 
 ## Software and Libraries
 
@@ -99,15 +114,3 @@ To run the analysis, install the required Python libraries and run the Jupyter N
 
 The raw dataset should be located in the same project directory expected by the notebook.
 
-## Unit Information
-
-**Unit:** HIT140 – Foundations of Data Science  
-**Assessment:** Group Project Report – Objective 2  
-**Section:** Linear Regression 2.1  
-
-**Group Members:**
-
-- Adarsh Thakorbhai Padhya – S401743
-- Md Osman Syed – [Student ID]
-- Madan B K – S399582
-- Aakriti B C – [Student ID]
