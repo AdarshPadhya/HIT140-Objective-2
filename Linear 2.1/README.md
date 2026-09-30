@@ -87,7 +87,7 @@ The analysis showed that the selected pre-match variables had limited ability to
 ## Files
 
 - `dataset 2.1.xlsx` – Original match dataset.
-- `regression_2_1_processed.csv` – Cleaned and processed dataset.
+- `regression_2_1_processed.csv` – Cleaned and feature-engineered dataset generated through Python.
 - `regression_2_1.ipynb` – Python/Jupyter Notebook containing data preparation, analysis, modelling, evaluation and visualisations.
 
 ## References
